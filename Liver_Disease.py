@@ -382,15 +382,6 @@
     "df.info()"
    ]
   },
-  {
-   "cell_type": "code",
-   "execution_count": 6,
-   "id": "7a969850-fef8-4da7-b826-40f0f61f0c20",
-   "metadata": {
-    "scrolled": true
-   },
-   "outputs": [
-    {
      "data": {
       "text/plain": [
        "Index(['category', 'age', 'sex', 'albumin', 'alkaline_phosphatase',\n",
